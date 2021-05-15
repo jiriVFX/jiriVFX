@@ -7,12 +7,12 @@ You can see project demos on my <a href="https://youtube.com/playlist?list=PLn2e
 
 ## Connect with me
 
-<kbd><a href="https://www.youtube.com/channel/UCFOVnO-D9CeAm3GJqP5m6qg"><img src="static/img/youtube.png" alt="YouTube" style="padding-right:30px;" /></a></kbd>
-<kbd><a href="https://twitter.com/jiriVFX"><img src="static/img/twitter.png" alt="Twitter" style="margin-right:30px;" /></a></kbd>
-<kbd><a href="https://www.linkedin.com/in/jiri-novy-vfx/"><img src="static/img/linkedin.png" alt="LinkedIn" style="margin-right:30px;" /></a></kbd>
-<kbd><a href="https://www.instagram.com/jirivfx/"><img src="static/img/instagram.png" alt="Instagram" style="margin-right:30px;" /></a></kbd>
-<kbd><a href="https://500px.com/jirivfx"><img src="static/img/500px.png" alt="500px" style="margin-right:30px;" /></a></kbd>
-<kbd><a href="https://vimeo.com/jiriVFX"><img src="static/img/vimeo.png" alt="Vimeo" style="margin-right:30px;" /></a></kbd>
+<a href="https://www.youtube.com/channel/UCFOVnO-D9CeAm3GJqP5m6qg"><img src="static/img/youtube.png" alt="YouTube" style="padding-right:30px;" /></a>
+<a href="https://twitter.com/jiriVFX"><img src="static/img/twitter.png" alt="Twitter" style="margin-right:30px;" /></a>
+<a href="https://www.linkedin.com/in/jiri-novy-vfx/"><img src="static/img/linkedin.png" alt="LinkedIn" style="margin-right:30px;" /></a>
+<a href="https://www.instagram.com/jirivfx/"><img src="static/img/instagram.png" alt="Instagram" style="margin-right:30px;" /></a>
+<a href="https://500px.com/jirivfx"><img src="static/img/500px.png" alt="500px" style="margin-right:30px;" /></a>
+<a href="https://vimeo.com/jiriVFX"><img src="static/img/vimeo.png" alt="Vimeo" style="margin-right:30px;" /></a>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirivfx&hide_border=true&theme=tokyonight&bg_color=0062eb&text_color=f8f9fa&title_color=f8f9fa&icon_color=f8f9fa" alt="Jiri's Most Used Languages">
