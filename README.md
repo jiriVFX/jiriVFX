@@ -7,13 +7,12 @@ https://youtube.com/playlist?list=PLn2egL8OvtDnhcoi_TuEmAn6u1vnyg5yx
 
 ## Connect with me
 
-<img src="static/img/youtube.png" />
-<img src="static/img/twitter.png" />
-<img src="static/img/linkedin.png" />
-<img src="static/img/linkedin.png" />
-<img src="static/img/instagram.png" />
-<img src="static/img/500px.png" />
-<img src="static/img/vimeo.png" />
+<a href="https://www.youtube.com/channel/UCFOVnO-D9CeAm3GJqP5m6qg"><img src="static/img/youtube.png" /></a>
+<a href="https://twitter.com/jiriVFX"><img src="static/img/twitter.png" /></a>
+<a href="https://www.linkedin.com/in/jiri-novy-vfx/"><img src="static/img/linkedin.png" /></a>
+<a href="https://www.instagram.com/jirivfx/"><img src="static/img/instagram.png" /></a>
+<a href="https://500px.com/jirivfx"><img src="static/img/500px.png" /></a>
+<a href="https://vimeo.com/jiriVFX"><img src="static/img/vimeo.png" /></a>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirivfx&hide_border=true&theme=tokyonight&bg_color=0062eb&text_color=f8f9fa&title_color=f8f9fa&icon_color=f8f9fa" alt="Jiri's Most Used Languages">
