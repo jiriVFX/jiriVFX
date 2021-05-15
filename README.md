@@ -1,6 +1,6 @@
 # Hello there, I am Jiri. Nice to see you here! 👋
 Welcome to my GitHub portfolio!<br />
-I gradually add new projects(repositories) and solutions to (mainly LeetCode) problems in here.
+I gradually add new projects(repositories) and solutions to (mainly) LeetCode problems in here.
 
 Visit my YouTube channel for project demos:
 https://youtube.com/playlist?list=PLn2egL8OvtDnhcoi_TuEmAn6u1vnyg5yx
@@ -16,8 +16,8 @@ https://youtube.com/playlist?list=PLn2egL8OvtDnhcoi_TuEmAn6u1vnyg5yx
 <img src="static/img/vimeo.png" />
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirivfx">
-<img src="https://github-readme-stats.vercel.app/api?username=jirivfx&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirivfx&hide_border=true&theme=tokyonight&bg_color=0062eb&text_color=f8f9fa&title_color=f8f9fa&icon_color=f8f9fa" alt="Jiri's Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=jirivfx&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0062eb&text_color=f8f9fa&title_color=f8f9fa&icon_color=f8f9fa" alt="Jiri's GitHUb Stats" />
 
 ## Check the projects I like the most below 👇.
 
