@@ -7,7 +7,7 @@ You can see project demos on my <a href="https://youtube.com/playlist?list=PLn2e
 
 ## Connect with me
 
-<a href="https://www.youtube.com/channel/UCFOVnO-D9CeAm3GJqP5m6qg"><img src="static/img/youtube.png" alt="YouTube" style="margin-right:30px;" /></a>
+<a href="https://www.youtube.com/channel/UCFOVnO-D9CeAm3GJqP5m6qg"><img src="static/img/youtube.png" alt="YouTube" style="padding-right:30px;" /></a>
 <a href="https://twitter.com/jiriVFX"><img src="static/img/twitter.png" alt="Twitter" style="margin-right:30px;" /></a>
 <a href="https://www.linkedin.com/in/jiri-novy-vfx/"><img src="static/img/linkedin.png" alt="LinkedIn" style="margin-right:30px;" /></a>
 <a href="https://www.instagram.com/jirivfx/"><img src="static/img/instagram.png" alt="Instagram" style="margin-right:30px;" /></a>
