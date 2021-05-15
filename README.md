@@ -7,12 +7,12 @@ https://youtube.com/playlist?list=PLn2egL8OvtDnhcoi_TuEmAn6u1vnyg5yx
 
 ## Connect with me
 
-<a href="https://www.youtube.com/channel/UCFOVnO-D9CeAm3GJqP5m6qg"><img src="static/img/youtube.png" alt="YouTube" /></a>
-<a href="https://twitter.com/jiriVFX"><img src="static/img/twitter.png" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/jiri-novy-vfx/"><img src="static/img/linkedin.png" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/jirivfx/"><img src="static/img/instagram.png" alt="Instagram" /></a>
-<a href="https://500px.com/jirivfx"><img src="static/img/500px.png" alt="500px" /></a>
-<a href="https://vimeo.com/jiriVFX"><img src="static/img/vimeo.png" alt="Vimeo" /></a>
+<a href="https://www.youtube.com/channel/UCFOVnO-D9CeAm3GJqP5m6qg"><img src="static/img/youtube.png" alt="YouTube" style="max-width:100%;" /></a>
+<a href="https://twitter.com/jiriVFX"><img src="static/img/twitter.png" alt="Twitter" style="max-width:100%;" /></a>
+<a href="https://www.linkedin.com/in/jiri-novy-vfx/"><img src="static/img/linkedin.png" alt="LinkedIn" style="max-width:100%;" /></a>
+<a href="https://www.instagram.com/jirivfx/"><img src="static/img/instagram.png" alt="Instagram" style="max-width:100%;" /></a>
+<a href="https://500px.com/jirivfx"><img src="static/img/500px.png" alt="500px" style="max-width:100%;" /></a>
+<a href="https://vimeo.com/jiriVFX"><img src="static/img/vimeo.png" alt="Vimeo" style="max-width:100%;" /></a>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirivfx&hide_border=true&theme=tokyonight&bg_color=0062eb&text_color=f8f9fa&title_color=f8f9fa&icon_color=f8f9fa" alt="Jiri's Most Used Languages">
