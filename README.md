@@ -18,7 +18,7 @@ You can see project demos on my <a href="https://youtube.com/playlist?list=PLn2e
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirivfx&hide_border=true&theme=tokyonight&bg_color=0062eb&text_color=f8f9fa&title_color=f8f9fa&icon_color=f8f9fa" alt="Jiri's Most Used Languages">
 <img src="https://github-readme-stats.vercel.app/api?username=jirivfx&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0062eb&text_color=f8f9fa&title_color=f8f9fa&icon_color=f8f9fa" alt="Jiri's GitHub Stats" />
 
-## Check my favourite projects below 👇.
+## Check my favourite projects below 👇
 
 <!--
 **jiriVFX/jiriVFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
