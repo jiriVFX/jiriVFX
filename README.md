@@ -1,4 +1,4 @@
-# Hello there, I am Jiri. Nice to see you here! 👋
+# Hello there, I am Jiri. Nice to see you! 👋
 *I'm a developer, 3D artist and a creator. I love to build things and software is one of them!*<br />
 
 I gradually add new projects(repositories) and solutions to (mainly) LeetCode problems in here.<br />
