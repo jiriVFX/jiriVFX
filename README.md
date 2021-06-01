@@ -1,5 +1,5 @@
 # Hello there, I am Jiri. Nice to see you! 👋
-*I'm a developer, 3D artist and a creator. I love to build and create!*<br />
+*I'm a developer, 3D artist and a creator. I love to build and make stuff!*<br />
 
 I gradually add new projects(repositories) and solutions to (mostly) LeetCode problems in here.<br />
 You can see project demos on my <a href="https://youtube.com/playlist?list=PLn2egL8OvtDnhcoi_TuEmAn6u1vnyg5yx" target="_blank">YouTube channel</a>.
